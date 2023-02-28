@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\bin\Debug\bai2lab.exe.config
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\bin\Debug\bai2lab.exe
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\bin\Debug\bai2lab.pdb
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\obj\Debug\bai2lab.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\obj\Debug\bai2lab.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\obj\Debug\bai2lab.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\obj\Debug\bai2lab.exe
+D:\C#folder\HOMEWORK15.2.2023\bai2lab\obj\Debug\bai2lab.pdb

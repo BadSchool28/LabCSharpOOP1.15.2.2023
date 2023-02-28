@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\bin\Debug\bai1lab.exe.config
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\bin\Debug\bai1lab.exe
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\bin\Debug\bai1lab.pdb
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\obj\Debug\bai1lab.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\obj\Debug\bai1lab.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\obj\Debug\bai1lab.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\obj\Debug\bai1lab.exe
+D:\C#folder\HOMEWORK15.2.2023\bai1lab\obj\Debug\bai1lab.pdb
